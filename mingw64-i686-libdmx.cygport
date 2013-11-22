@@ -3,7 +3,7 @@ ORIG_PN="libdmx"
 inherit cross xorg
 
 NAME="mingw64-i686-libdmx"
-VERSION=1.1.2
+VERSION=1.1.3
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X.Org Distributed Multihead X library for Win32 toolchain"
